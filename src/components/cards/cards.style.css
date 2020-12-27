@@ -27,3 +27,16 @@
     color: #49a6e9;
     padding: 0.24rem 0.5rem;
 }
+
+.tour-info {
+    color: #617d98;
+}
+
+.tour-info button {
+    background: transparent;
+    border-color: transparent;
+    text-transform: capitalize;
+    font-size: 1rem;
+    cursor: pointer;
+    padding-left: .25rem;
+}

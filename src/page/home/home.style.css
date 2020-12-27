@@ -1,0 +1,13 @@
+.home {
+    width: 90vw;
+    max-width: 620px;
+    margin: 5rem auto;
+}
+
+.head {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 45px;
+    color: #102a42;
+    font-weight: 800;
+}
